@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
 /**
- * This virtualPet program implements the knowledges that I have learned so far
+ * This virtualPet program implements the knowledge that I have learned so far
  * to create a kind of virtual pet game.
  * 
  * @author kuobear
  * @version 1.0
- * @since May/June of 2019
+ * @since May->July of 2019
  */
 
 public class virtualPet extends Dog{
